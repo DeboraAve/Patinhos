@@ -17,5 +17,5 @@ contador = patinhos
 
 while contador >= 0: #estrutura de loop criada para reproduzir a música#
     contador = validaPatinhos(contador, patinhos)
-    print("Foi um prazer cantar com você!")
+    
 
