@@ -43,4 +43,6 @@ A mamãe gritou
 Quá, quá, quá, quá
 E os {patinhos} voltaram de lá.""")
         separaEstrofe();
+        print("Foi um prazer cantar com você!")
+        separaEstrofe();
     return contador - 1
