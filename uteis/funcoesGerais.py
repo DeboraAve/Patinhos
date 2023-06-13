@@ -34,8 +34,7 @@ Para brincar
 A mamãe gritou
 Quá, quá, quá, quá
 Mas só {contador-1} patinho voltou de lá.""")
-       
-    
+         
     elif contador == 1: #ajuste gramatical em toda a estrofe#
         separaEstrofe(contador)
         slowprint(f"""{contador} patinho 
