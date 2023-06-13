@@ -9,7 +9,7 @@ def separaEstrofe(valor:int):
     print(emoji.emojize(':duck:'*valor))
     print("="*8)
 
-def slowprint(texto, atraso=0.1):
+def slowprint(texto, atraso=0.15):
     for c in texto:
         print(c,end='',flush=True)
         time.sleep(atraso)
